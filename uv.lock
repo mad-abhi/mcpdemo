@@ -749,6 +749,7 @@ dependencies = [
     { name = "langchain-groq" },
     { name = "langchain-openai" },
     { name = "mcp-use" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
@@ -756,6 +757,7 @@ requires-dist = [
     { name = "langchain-groq", specifier = ">=1.1.2" },
     { name = "langchain-openai", specifier = ">=1.1.16" },
     { name = "mcp-use", specifier = ">=1.7.0" },
+    { name = "python-dotenv", specifier = ">=1.0.1" },
 ]
 
 [[package]]
