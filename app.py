@@ -31,7 +31,7 @@ async def run_memory_chat():
         memory_enabled=True,
     )
 
-    print("\n===== Interactive MCP Chat Session =====")
+    print("\n===== Interactive MCP Chat Session ======")
     print("Enter 'exit' or 'quit' to end the session.")
     print("Type 'clear' to clear the chat history.")
     print("==========================================\n")
